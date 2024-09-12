@@ -88,7 +88,7 @@
     "normalize-scss": "^7.0.1",
     "nuxt": "2.17.2",
     "papaparse": "5.4.1",
-    "path-to-regexp": "^1.8.0",
+    "path-to-regexp": "^1.9.0",
     "posthog-js": "^1.105.8",
     "resize-observer-polyfill": "^1.5.1",
     "sass-loader": "10.4.1",
